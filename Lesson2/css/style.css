@@ -1,0 +1,22 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1, h3 {
+    text-align: center;
+}
+h1 {
+    color: blue;
+}
+img {
+    display: block;
+    margin: 0 auto;
+    width: 600px;
+}
+p::first-letter{
+    font-style: italic;
+    font-size: 150%;
+    color: #ff0000;
+}
+a {
+    color: darkgreen;
+}
